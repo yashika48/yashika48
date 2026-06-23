@@ -1,7 +1,7 @@
-👋 Hi, I’m Yashika Sharma.
-👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
-💻 Strengthening my Data Structures & Algorithms skills.
-🌱 I’m currently learning Development and Machine Learning.
-💞 I’m looking to collaborate on ML and Web Development projects.
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/yashika-sharma-b6898737a/
-😄 Pronouns: She/Her
+- 👋 Hi, I’m Yashika Sharma.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
+- 💻 Strengthening my Data Structures & Algorithms skills.
+- 🌱 I’m currently learning Development and Machine Learning.
+- 💞 I’m looking to collaborate on ML and Web Development projects.
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/yashika-sharma-b6898737a/
+- 😄 Pronouns: She/Her
