@@ -3,5 +3,5 @@
 . 💻 Strengthening my Data Structures & Algorithms skills
 . 🌱 I’m currently learning Development and Machine Learning
 . 💞️ I’m looking to collaborate on ML and web dev projects
-. 📫 Reach me at yashikasharma264434@gmail.com
+. 📫Connect with me on LinkedIn: https://www.linkedin.com/in/yashika-sharma-b6898737a/
 . 😄 Pronouns: she/her
